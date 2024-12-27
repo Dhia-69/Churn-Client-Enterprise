@@ -95,8 +95,8 @@ Un rapport détaillé s'affiche dans la console après l'entraînement du modèl
 
 ## 👥 Contributeurs
 
-- **Dhia** – Développement et implémentation  
-- 📧 Contact : dhiatoukebri@gmail.com
+- **Dhia** et **Habib** – Développement et implémentation  
+- 📧 Contact : dhiatoukebri@gmail.com / haboubkammoun13@gmail.com
 
 ---
 
